@@ -7,3 +7,8 @@ input1.addEventListener('keydown',()=>{
     let message = '<p>Du  skriver i input 1</p>';
     messagebox1.innerHTML = message;
 });
+
+input2.addEventListener('keydown',()=>{
+    let message = '<p>Du  skriver i input 2</p>';
+    messagebox2.innerHTML = message;
+});
