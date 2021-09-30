@@ -1,11 +1,3 @@
-#input1 {
-    background-color: lightslategrey;
-    color: limegreen;
-    font-size: 16px;
-}
-
-#input2 {
-    background-color: lightslategrey;
-    color: limegreen;
-    font-size: 16px;
+body {
+    background-color: mediumpurple;
 }
